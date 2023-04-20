@@ -1,0 +1,153 @@
+BCAS | Sample Page
+
+
+
+#---------- HEADER ----------#
+
+BCAS LOGO
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Course	
+Service
+Contact
+
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+#---------- FEATURE SERVICE ----------#
+
+Feature Services :
+
+Scholarship
+Quality of Education
+Eco Friendly
+
+	
+#---------- HOME ----------#
+
+WELCOME TO
+
+Batangas College of Arts & Sciences, Inc.
+EXCELLENCE IS IN OUR DNA!!
+About Us
+
+Connect with us:
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-email"></ion-icon>
+
+
+
+
+
+#---------- ABOUT ----------#
+
+Picture of School
+
+About us
+
+Mission
+
+Vision
+
+
+#---------- COURSE ----------#
+
+School Programs
+Our offered courses
+
+Bachelor of Science in Information of Technology
+1
+Instructor: Mark Kalalo
+
+4 year degree course
+
+---
+
+
+---
+
+
+#---------- SERVICES ----------#
+
+FOR THE BETTERMENT OF OUR SCHOOL
+
+What we do
+
+
+Free Scholarship
+Logo
+
+Meaning
+
+---
+
+---
+
+
+
+#---------- BCAS OASIS ENDORSEMENT ----------#
+
+Be one of us
+Click here if you are interested admission form
+Also download it:
+logo = Play Store
+
+
+
+
+#---------- CONTACT AND FOOTER ----------#
+
+Contact Us
+
+Get in touch
+
+Full name
+Email
+Phone Number
+
+Submit
+ 
+All Courses
+
+BSIT
+BSBA
+BSED
+
+
+Links
+
+FB
+IG
+TWITTER
+BCAS-OASIS
+BCAS-CSC-Page
+
+
+Opening Hours
+
+Mon-Fri: 8 AM – 4 PM
+Saturday: 8 AM – 12 PM
+Sunday: Closed
+
+Location
+Brgy. Bagongpook,
+Lipa City, Batangas.
+
+&copy; 2023 Made With 
+<ion-icon name="heart" aria-hidden="true"></ion-icon> by
+Russel Vincent Cuevas / Archie Devera
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
